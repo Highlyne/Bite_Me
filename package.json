@@ -1,0 +1,28 @@
+{
+  "name": "bite_me",
+  "version": "1.0.0",
+  "description": "Full stack web application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.32.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Highlyne/Bite_Me.git"
+  },
+  "author": "Tamara Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Highlyne/Bite_Me/issues"
+  },
+  "homepage": "https://github.com/Highlyne/Bite_Me#readme"
+}
